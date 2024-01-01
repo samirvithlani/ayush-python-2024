@@ -1,0 +1,42 @@
+PYTHON:
+
+programming language:
+programming language is a set of rules that provides a way of telling a computer what operations to perform.
+scripting language:
+scripting language is a programming language that supports scripts, 
+programs written for a special run-time environment that can interpret (rather than compile) 
+and automate the execution of tasks that could alternatively be executed one-by-one by a human operator.
+
+
+2 types of programming / script languages:
+
+1) statically typed language:
+
+    when we declare a variable in statically typed language, we to specify the type of the variable.
+    int a =10;
+
+    c, c++, java, c#, go, swift, rust, kotlin, typescript, etc.
+
+2) dynamically typed language:
+    when we declare a variable in dynamically typed language,
+     we don't need to specify the type of the variable.
+
+     javascript, python, ruby, php, etc.
+
+
+variable declaration :
+
+variable are the containers that are used to store the data.
+1)int
+float
+double
+boolean
+long
+char
+string
+
+
+to provide single line comment in python we use # symbol.
+
+
+
