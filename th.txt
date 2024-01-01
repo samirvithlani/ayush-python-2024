@@ -38,5 +38,19 @@ string
 
 to provide single line comment in python we use # symbol.
 
+2 type of type casting:
+1)narrowing type casting
+
+    big data type to small data type  flaot --> int
+2)widening type casting
+    int --> float
+
+
+when you are doing explicit type casting, only allows widening type casting.
+
+
+
+    
+
 
 
