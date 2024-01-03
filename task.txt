@@ -1,0 +1,9 @@
+ladder if else.
+3 ,3
+1) you have to check if person is alive and senior citizen then he is eligible for pension.
+2)  get monthy income of person and  check loan eligible criteria.
+
+  1)if person's yearly income is more than 2.5 lakh then he is eligible for 2 wheeler loan.
+  2)if person's yearly income is more than 5 lakh then he is eligible for 4 wheeler loan.
+  3)if person's yearly income is more than 10 lakh then he is eligible for house loan.
+  4)if person's yearly income is more than 20 lakh then he is eligible for business loan.
