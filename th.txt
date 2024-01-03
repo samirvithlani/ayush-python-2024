@@ -74,3 +74,45 @@ it requires only 1 operands
 
 7)membership operators:
     in, not in
+
+
+decision making statements:
+1)if statements
+2)switch case statements  [not available in python]
+3)loops
+
+indentation:
+    indentation is the space between the margin and the code.
+    indentation is used to define the block of code.
+    indentation is used to improve the readability of the code.
+    indentation is used to define the scope of the code.
+
+    in python, we use 4 spaces to define the indentation.
+    in python, we can use tab key to define the indentation.
+
+
+if condition{
+    block
+}
+    
+
+if condition:
+    indentation block
+    .
+    .
+
+    .
+    .
+    .
+    .
+    .
+else:
+    indentation block
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .    
