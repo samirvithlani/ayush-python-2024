@@ -49,8 +49,28 @@ to provide single line comment in python we use # symbol.
 when you are doing explicit type casting, only allows widening type casting.
 
 
+operators: operators are the symbols that are used to perform the operations on the operands.
+type of operators:
+1)binary operators: binary operators require 2 operands.
+2)uneary operators: python doesn't support uneary operators. 
+it requires only 1 operands
+3)ternary operators:    ? :
 
+1)arithmetic operators:
+    +, -, *, /, %, 
+    // floor division
+    ** exponentiation
+2)assignment operators:
+    =, +=, -=, *=, /=, %=, //=, **=
+3)comparison operators:
+    ==, !=, >, <, >=, <=
+4)logical operators:
+    and, or, not
+5)bitwise operators:
+    &, |, ^, ~, <<, >>
     
+6)identity operators:
+    is, is not
 
-
-
+7)membership operators:
+    in, not in
