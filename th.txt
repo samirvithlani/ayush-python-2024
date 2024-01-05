@@ -116,3 +116,18 @@ else:
     .
     .
     .    
+loops:
+entry controlled loop:
+    while loop
+    for loop
+exit controlled loop:
+    do while loop [not available in python]
+
+
+for(int i=1;i<=5;i++){
+
+}
+int i=1;i<=5;i++  #range(1,6)
+
+membership operators:
+    in, not in
