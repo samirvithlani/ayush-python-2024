@@ -17,3 +17,8 @@ print 1 to n numbers using for loop and do sum of only even numbers.
 
 123 --> no of digits = 3
 
+
+
+task :
+find no of words in a given string.
+find no of space in a given string.
