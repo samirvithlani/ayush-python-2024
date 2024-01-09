@@ -15,3 +15,5 @@ find factorial of a given number using for loop
 
 print 1 to n numbers using for loop and do sum of only even numbers.
 
+123 --> no of digits = 3
+
