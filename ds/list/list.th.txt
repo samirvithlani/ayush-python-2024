@@ -1,0 +1,16 @@
+Array : array is group of elements of same data type
+
+LIST : list is group of elements of different data type
+1) list is mutable
+2) list is ordered [0-n]
+3) list is represented by []
+4) list is dynamic in nature [size is not fixed]
+5) list is heterogeneous [different data type]
+6) list is iterable
+7) list is growable / shrinkable
+8) list is indexed
+9) list allows duplicate values
+10) list is not hashable
+11) list is not sorted
+12) list is not homogeneous [same data type]
+13)DATA TYPE OF LIST IS LIST
