@@ -131,3 +131,27 @@ int i=1;i<=5;i++  #range(1,6)
 
 membership operators:
     in, not in
+
+stirng methods:
+upper
+lower
+title
+capitalize
+swapcase
+isupper
+islower
+istitle
+isalpha
+isalnum
+isdigit
+isspace
+startswith
+endswith
+index
+find
+count
+replace    
+split
+strip
+lstrip
+rstrip
