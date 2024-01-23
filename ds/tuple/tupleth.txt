@@ -1,0 +1,4 @@
+tuple:
+1)tuples are immutable #cannot change
+
+9)tuple stores daa  in ()
