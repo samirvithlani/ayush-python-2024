@@ -1,0 +1,12 @@
+1) cahr dict
+
+it stores data in key value pair
+it does not allow duplicate key
+it allow duplicate value
+it is mutable
+it is unordered
+it is iterable
+it is subscriptable
+data type of dict is dict
+{}
+{key:value,}

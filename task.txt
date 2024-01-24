@@ -25,3 +25,14 @@ find no of space in a given string.
 
 
 create replica of count funciton of list
+
+create scorecard of 1 cricket match using 
+
+//player name is required
+//runs
+//balls
+
+
+need to find team score
+need to find heighest scorer
+need to find lowest scorer
