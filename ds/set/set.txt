@@ -1,0 +1,9 @@
+set:
+set is unordered collection of unique elements
+set is mutable
+set is iterable
+set is not subscriptable 
+set does not allow duplicate elements
+set - {} or set()
+
+
