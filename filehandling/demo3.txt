@@ -1,0 +1,3 @@
+Hello this line is written by file handling
+Hello this line is written by file handling
+age =  20

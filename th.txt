@@ -192,5 +192,13 @@ advantages of functions:
 6)reduce the complexity of the code
 
 
+[red,blue,grren,yellow]
+
+please guess color --> red score+1
+green score+1
+red [selected]
+black game over
+
+
 
 

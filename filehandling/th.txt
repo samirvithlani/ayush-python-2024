@@ -1,0 +1,35 @@
+to achive data persistancy in we can use files or db
+to store data permanently in form of or db 
+
+open
+read /write
+close
+
+modes to open file...
+
+"r" read mode --> file must be present
+"w" write mode --> file need not be present
+"a" append mode --> file need not be present
+"r+" read and write mode --> file must be present
+"w+" write and read mode --> file need not be present
+"a+" append and read mode --> file need not be present
+"x" exclusive mode --> file need  be present
+
+....
+
+"""
+
+
+relative path ./ current directory
+../ parent directory
+../../ grand parent directory
+absolute path
+D:\royal\ayush-pytho-2024/filehandlling
+
+./
+../demo.txt
+
+
+def open(file,mode):
+    if mode =="w"
+    write...
