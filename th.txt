@@ -200,5 +200,34 @@ red [selected]
 black game over
 
 
+Error 
 
+     --> syntax error
+error needs to resolve...
 
+Exception:
+    --> runtime error
+    --> logical error
+    --> server.....
+
+Exception
+Exception have to handle....
+
+try
+except
+else
+finally
+
+-----------------------------------------
+attandance managment system
+
+1)add student
+2)view all student
+
+3)create batch
+4)view all batch
+5)add student to batch
+
+6)mark attandance
+7)view attandance
+8)view attandance by date range of student
